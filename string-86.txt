@@ -1,0 +1,12 @@
+* Onion Browser / Localizable.strings / string 86 *
+
+ORIGINAL TEXT
+-------------
+Purchase Failure
+
+TRANSLATION
+-----------
+Ошибка Покупки
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
