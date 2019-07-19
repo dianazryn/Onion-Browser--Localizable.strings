@@ -1,0 +1,12 @@
+* Onion Browser / Localizable.strings / string 122 *
+
+ORIGINAL TEXT
+-------------
+Onion Browser is a free app, but it takes time and resources to develop and maintain.
+
+TRANSLATION
+-----------
+Onion Browser является бесплатным приложением, но для его разработки и поддержки требуются время и ресурсы.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
