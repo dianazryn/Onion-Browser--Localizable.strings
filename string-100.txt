@@ -1,0 +1,12 @@
+* Onion Browser / Localizable.strings / string 100 *
+
+ORIGINAL TEXT
+-------------
+Support Onion Browser Development
+
+TRANSLATION
+-----------
+Поддержите разработку Onion Browser
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
